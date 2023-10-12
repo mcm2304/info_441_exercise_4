@@ -1,0 +1,25 @@
+{
+  "name": "info_441_exercise_4",
+  "version": "1.0.0",
+  "description": "Repository for Render Deployment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcm2304/info_441_exercise_4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcm2304/info_441_exercise_4/issues"
+  },
+  "homepage": "https://github.com/mcm2304/info_441_exercise_4#readme",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
